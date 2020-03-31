@@ -1,3 +1,6 @@
 # lightsaberModeling
-https://youtu.be/BnEYA0d58UI?t=332
-Current tutorial that I was following along with.
+https://youtu.be/8CGlOtCvGc0
+The link above contains the final video in the series I was following along to used as a marker.
+
+The video link below goes to the 1st video in the series.
+https://youtu.be/Rqv3BDoRjXc
